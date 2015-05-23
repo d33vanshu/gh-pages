@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>WebDev Labs|NIT Surat</title>
+  <style>
+   h1{
+     color: #336699;
+     font-family: "Book Antiqua", Times, serif;
+   }
+   h2{
+     color: #33CC99;
+     font-family: "Book Antiqua", Times, serif;
+     font-style: italic;
+   }
+   .myid{
+        color: #CC99FF
+   }
+   .myid2{
+        color: #99CCCC	
+#99CC99
+   }
+  </style>
+ </head>
+ <body bgcolor="#000000">
+  <div style="z-index: 2; position: container; background-color: #000000; font-size: 24pt; color: #99CCCC">
+   <h1 align="center">WebDev Labs</h1>
+   <p align="center"><i>Pioneer in Web Infrastructure Improvement @ NIT Surat !</i></p>
+  </div>
+  <div style="z-index: 2; position: container; background-color: #990066; font-size: 16pt; color: #99CCCC">
+   <h2>About Us</h2>
+   <p class="myid">The motive of <i>WebDev Labs</i> is to develop web and programming skills in peoples, create attractive and ideal websites and promote them. It is a student chapter of SVNIT, Surat which founded by Mr. Shakti Goap.</p>
+  </div>
+  <div style="z-index: 2; position: container; background-color: #333333; font-size: 16pt; color: #99CCCC">
+   <h2>Past Projects</h2>
+   <p>    
+    <dl>
+     <dt class="myid2">Seminars</dt>
+      <dd class="myid">Many seminars organised by WebDev Labs to inspire peoples about web developing and its advantages.</dd>
+     <dt class="myid2">InOut</dt>
+      <dd class="myid">InOut was a hackathon organised by WebDev Labs. It was the first hackathon of Surat, organised in SVNIT, Surat. To know about it <a href="http://inout.webdevlabs.in/">click here</a></dd>
+     <dt class="myid2">SVNIT Alumnai Website</dt>
+      <dd class="myid">SVNIT Alumnai Website is made by WebDev Labs. It is like a social media which connects to students of SVNIT. To know about it <a href="http://www.svnitalumni.com/">click here</a></dd>
+   </p>
+  </div>
+  <div style="z-index: 2; position: container; background-color: #000066; font-size: 16pt; color: #99CCCC">
+   <h2>Team</h2>
+   <p>
+    <ul>
+     <li class="myid">Shakti Goap</li>
+     <li class="myid">Rohit Gurani</li>
+     <li class="myid">Akash Nimare</li>
+     <li class="myid">Harsh Jadav</li>
+     <li class="myid">Yash Kanani</li>
+     <li class="myid">Phiju Basumatary</li>
+     <li class="myid">Jay Kachhadia</li>
+     <li class="myid">Pradeep Karwasra</li>
+     <li class="myid">Noel Varghese</li>
+     <li class="myid">Deevanshu Kumawat</li>
+     <li class="myid">Hiren Kakkad</li>
+     <li class="myid">Sangam Kumar</li>
+     <li class="myid">Aashish Mishra</li>
+     <li class="myid">Kishan Kumar</li>
+     <li class="myid">Paul Jose</li>
+     <li class="myid">Anshul Jain</li>
+     <li class="myid">Prem Sinwar</li>
+     <li class="myid">Abhirup Panja</li>
+     <li class="myid">Pradeep Ch</li>
+     <li class="myid">Nishant Verma</li>
+    </ul>
+   </p>
+  </div>
+  <div style="z-index: 2; position: container; background-color: #660033; font-size: 16pt; color: #99CCCC">
+   <h2>Contact Us</h2>
+   <p class="myid">
+     <dt class="myid">Facebook</dt>
+      <dd class="myid2"><a href="https://www.facebook.com/webdevlabs?fref=ts">https://www.facebook.com/webdevlabs?fref=ts</a></dd>
+     <dt class="myid">Gmail</dt>
+      <dd class="myid2">mail@webdevlabs.in</dd>
+     <dt class="myid">Address</dt>
+      <dd class="myid2">SVNIT Alumnai, SVNIT, Surat-395007, Gujarat <a href="http://www.svnitalumni.com/">click here</a></dd>
+   </p>
+  </div>
+  <div style="z-index: 4; right: 100px; top: 50px; position: absolute; color: black; font-size: 16pt; background-color: white">
+   <p><a href="www.webdevlabs/register">Register</a></p>
+  </div>
+  <div style="z-index: 4; right: 180px; top: 50px; position: absolute; color: black; font-size: 16pt; background-color: white">
+   <p><a href="www.webdevlabs/login">Log In</a></p>
+  </div>
+ </body>
+</html>
